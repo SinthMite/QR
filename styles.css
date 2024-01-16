@@ -30,7 +30,7 @@ background-color: white;
 #QR{
     width: 100%;
     padding-bottom: 100%;
-    background-image: url('../images/image-qr-code.png');
+    background-image: url('images/image-qr-code.png');
     background-size: contain;
     border-radius: 1rem;
     margin-bottom: 1.5rem;
